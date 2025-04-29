@@ -9,16 +9,16 @@ Po každém tipování se zobrazuje počet bulls a cows. Hráč pokračuje, doku
 
 Program obsahuje tyto klíčové části:
 
-generování tajného čísla s unikátními číslicemi, které nezačíná nulou,
+• generování tajného čísla s unikátními číslicemi, které nezačíná nulou,
 
-kontrola platnosti vstupu uživatele (ověření čtyřciferného čísla, bez duplicit a nuly na začátku),
+• kontrola platnosti vstupu uživatele (ověření čtyřciferného čísla, bez duplicit a nuly na začátku),
 
-vyhodnocení tipů uživatele na základě počtu bulls a cows,
+• vyhodnocení tipů uživatele na základě počtu bulls a cows,
 
-zobrazení počtu pokusů a času po uhodnutí čísla,
+• zobrazení počtu pokusů a času po uhodnutí čísla,
 
-uchovávání statistik o všech odehraných hrách, průměrném počtu pokusů a čase,
+• uchovávání statistik o všech odehraných hrách, průměrném počtu pokusů a čase,
 
-možnost opakování hry.
+• možnost opakování hry
 
 Hra je určena pro jednoho hráče, který hádá tajné číslo. Ovládání je plně realizováno pomocí konzole a vstupů z klávesnice.

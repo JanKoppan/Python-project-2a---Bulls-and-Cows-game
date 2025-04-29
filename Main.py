@@ -1,5 +1,5 @@
 """
-projekt_1.py: Druhý projekt do Engeto Online Python Akademie
+projekt_2a.py: Druhý projekt do Engeto Online Python Akademie
 
 author: Jan Koppan
 email: jan.koppan@seznam.cz
